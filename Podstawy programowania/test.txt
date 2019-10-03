@@ -1,3 +1,5 @@
 WSB
 Wyższa Szkoła
 Bankowa
+
+podstawy programowania
